@@ -20,8 +20,8 @@ public class Driver {
 		
 		counter.increseBy(5);
 		
-		System.out.println("Count:" + counter.getCount());
-		
+		System.out.println("Current count:" + counter.getCount());
+
 		counter.decreseBy(2);
 		
 		System.out.println("Current count:" + counter.getCount());
