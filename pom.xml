@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd"
 >
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.meph1sto14</groupId>
-  <artifactId>ContohProject</artifactId>
-  <version>1.0.1</version>
+  <groupId>contohprojectmaven</groupId>
+  <artifactId>contohproject</artifactId>
+  <version>1.0.2</version>
 
   <dependencies>
     <dependency>
